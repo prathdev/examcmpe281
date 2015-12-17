@@ -33,8 +33,8 @@ app.get('/', function (req, res) {
 });
 
 
-app.listen(process.env.PORT);
-console.log(process.env.PORT);
+app.listen(3000);
+console.log(3000);
 
 
 
